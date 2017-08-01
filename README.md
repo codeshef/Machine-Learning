@@ -17,19 +17,19 @@ Day 1 :  What is machine learning?
    learning was developed as a new capability for computers and today it touches many segments of industry and basic 
    science.
    
-   :different types of learning algorithms. There are several different types of learning algorithms. The main two 
-     types are what we call supervised learning and unsupervised learning.
+   :different types of learning algorithms. There are several different types of learning algorithms.
+   The main two types are what we call supervised learning and unsupervised learning.
     
-    In supervised learning, the idea is that we're going to teach the computer how to do something, whereas in 
-    unsupervised learning we're going let it learn by itself. 
+   In supervised learning, the idea is that we're going to teach the computer how to do something, 
+   whereas in unsupervised learning we're going let it learn by itself. 
     
-    
-    Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study that gives 
-    computers the ability to learn without being explicitly programmed." This is an older, informal definition.
+   Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study
+   that gives computers the ability to learn without being explicitly programmed." This is an older, 
+   informal definition.
 
-    Tom Mitchell provides a more modern definition: "A computer program is said to learn from experience E 
-    with respect to some class of tasks T and performance measure P, if its performance at tasks in T, 
-    as measured by P, improves with experience E."
+   Tom Mitchell provides a more modern definition: "A computer program is said to learn from experience E 
+   with respect to some class of tasks T and performance measure P, if its performance at tasks in T, 
+   as measured by P, improves with experience E."
 
      Example: playing checkers.
 
