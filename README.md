@@ -88,3 +88,6 @@ roles, and so on.
 
 Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment.
 (i.e. identifying individual voices and music from a mesh of sounds at a cocktail party).
+
+
+Day : 2  Model and cost function
